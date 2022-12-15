@@ -1,0 +1,13 @@
+body{
+    background-color: #2f2f2f;
+}
+
+h1, h2{
+    color: whitesmoke;
+}
+
+form {
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
+}
